@@ -9,4 +9,4 @@ This repository does **not** contain any game assets or assembly whatsoever. An 
 
 This decompilation doesn't require the engine code. The engine is available [here](https://github.com/TwoTribesGames/ttengine/).
 
-<h2>Support Two Tribes and Mobigame by purchasing the game on Steam (https://store.steampowered.com/app/38740/EDGE/), or at Humble Bundle (https://www.humblebundle.com/store/edge)</h2>
+### Support Two Tribes and Mobigame by purchasing the game on [Steam](https://store.steampowered.com/app/38740/EDGE/), or at [Humble Bundle](https://www.humblebundle.com/store/edge)
