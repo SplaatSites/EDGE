@@ -1,11 +1,8 @@
 # EDGE
 
-A work-in-progress decompilation of EDGE (Humble Store release).
+A work-in-progress decompilation of EDGE (PC release).
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
-
-> [!WARNING]  
-> We recommend the Humble Store release as it is DRM-free.
 
 This decompilation doesn't require the engine code. The engine is available [here](https://github.com/TwoTribesGames/ttengine/).
 
