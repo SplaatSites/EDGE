@@ -1,5 +1,5 @@
 # EDGE
-<img alt="Static Badge" src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&label=EDGE%20Community&link=https%3A%2F%2Fdiscord.gg%2F9Ap4gqyDvq">
+<img alt="Static Badge" src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&label=EDGE%20Community&link=https%3A%2F%2Fdiscord.gg%2F9Ap4gqyDvq" href="https://discord.gg/9Ap4gqyDvq">
 A work-in-progress decompilation of EDGE (PC release).
 
 This repository does **not** contain any game assets whatsoever. An existing copy of the game is required.
