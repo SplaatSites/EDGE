@@ -9,3 +9,5 @@ This decompilation links against the open source Two Tribes engine. The engine i
 
 ### Support Two Tribes and Mobigame by purchasing the game on [Steam](https://store.steampowered.com/app/38740/EDGE/), or at [Humble Bundle](https://www.humblebundle.com/store/edge)
 #### If on Mac OS, you can you can purchase the game through the [Mac App Store](https://apps.apple.com/app/edge/id438933033).
+
+Contributions are accepted, as long as it's not AI generated code.
